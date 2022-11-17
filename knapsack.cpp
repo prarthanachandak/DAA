@@ -59,3 +59,8 @@ int main()
 	cout << fractionalKnapsack(W, arr, N);
 	return 0;
 }
+
+// Time Complexity: O(N * log N)
+// Auxiliary Space: O(N)
+
+
