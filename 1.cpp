@@ -35,3 +35,8 @@ int main(){
 	
 
 }
+
+// Fibonacci as O(2^n) 
+//T(n) = O(1.6180)^n
+// This is the tight upper bound
+//space on
