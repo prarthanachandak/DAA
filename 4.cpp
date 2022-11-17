@@ -48,4 +48,7 @@ int main()
 	return 0;
 }
 
-// This code is contributed by Debojyoti Mandal
+// Time Complexity: O(N*W). 
+// where ‘N’ is the number of weight element and ‘W’ is capacity. As for every weight element we traverse through all weight capacities 1<=w<=W.
+// Auxiliary Space: O(N*W). 
+// The use of 2-D array of size ‘N*W’.
